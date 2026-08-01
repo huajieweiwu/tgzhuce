@@ -1,4 +1,6 @@
-# <p align="center">2026年Telegram注册教程：下载、注册、设置与使用完整指南</p>
+# <p align="center">2026年Telegram注册教程：下载、注册和使用完整指南</p>
+
+![2026年Telegram注册教程：下载、注册和使用完整指南!](https://raw.githubusercontent.com/huajieweiwu/tgzhuce/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C.png)
 
 Telegram是一款支持手机、电脑和网页端使用的即时通讯软件，中文用户也经常把它叫作“电报”“纸飞机”或者“TG”。用户可以用Telegram发送文字、图片、视频和文件，也可以加入群组、订阅频道，或者使用各种机器人。
 
